@@ -1,0 +1,28 @@
+.form {
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    background: linear-gradient(#bd09b7,#6b4cf5);
+    margin: 0 auto;
+    height: 300px;
+}
+
+h2 {
+    color: #FFF
+}
+label {
+    color: #FFF
+}
+
+.inputs {
+    padding: 7px;
+    width: 95%;
+}
+
+button {
+    float: right;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
